@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="348ca70c-1993-4b82-bb1b-dcfc43bdc78a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../jquery/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/website.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WuBj7nld7UYhohnQnbkvFIZxef" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webserver" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="website" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="website" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579989851114">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="0" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1579989851114" />
+    <state x="1195" y="332" width="482" height="385" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579998216484">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="1195" y="332" width="482" height="385" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1579998216484" />
+    <state x="1020" y="166" width="560" height="721" key="#go_build_main.go" timestamp="1579995143236">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="1020" y="166" width="560" height="721" key="#go_build_main.go/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1579995143236" />
+    <state x="1219" y="284" width="426" height="480" key="FileChooserDialogImpl" timestamp="1580053301731">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="1219" y="284" width="426" height="480" key="FileChooserDialogImpl/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1580053301731" />
+    <state width="881" height="271" key="GridCell.Tab.0.bottom" timestamp="1580652386723">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="881" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1580652386723" />
+    <state width="881" height="271" key="GridCell.Tab.0.center" timestamp="1580652386723">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="881" height="271" key="GridCell.Tab.0.center/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1580652386723" />
+    <state width="881" height="271" key="GridCell.Tab.0.left" timestamp="1580652386723">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="881" height="271" key="GridCell.Tab.0.left/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1580652386723" />
+    <state width="881" height="271" key="GridCell.Tab.0.right" timestamp="1580652386723">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="881" height="271" key="GridCell.Tab.0.right/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1580652386723" />
+    <state width="913" height="334" key="GridCell.Tab.1.bottom" timestamp="1579998584273">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="913" height="334" key="GridCell.Tab.1.bottom/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1579998584273" />
+    <state width="913" height="334" key="GridCell.Tab.1.center" timestamp="1579998584273">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="913" height="334" key="GridCell.Tab.1.center/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1579998584273" />
+    <state width="913" height="334" key="GridCell.Tab.1.left" timestamp="1579998584272">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="913" height="334" key="GridCell.Tab.1.left/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1579998584272" />
+    <state width="913" height="334" key="GridCell.Tab.1.right" timestamp="1579998584273">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="913" height="334" key="GridCell.Tab.1.right/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1579998584273" />
+  </component>
+</project>

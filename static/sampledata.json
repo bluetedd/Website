@@ -1,0 +1,5 @@
+[
+{"id": "cell1", "message": "hello", "state": "good"},
+{"id": "cell2", "message": "wibble", "state": "bad"},
+{"id": "cell3", "message": "wobble", "state": "good"}
+]

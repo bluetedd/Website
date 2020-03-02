@@ -1,0 +1,46 @@
+Javascript
+
+in myscript.js
+
+jquery and javascript on w3school
+
+use SOME os the stuff below....
+
+
+
+var myVar10 = setInterval(myTimer10, 10000);
+
+var default_selector = 'item';
+
+$(document).ready(function(){
+    request_update()
+});
+
+
+function myTimer10() {
+    request_update()
+}
+
+function request_update(){
+    //alert(update_path)
+
+    var path = "/grid?update=1";
+
+    $.getJSON( path, function( data ) {
+        if (data.hasOwnProperty('updates')) {
+            for (var key in data.updates) {
+              if (data.updates.hasOwnProperty(key)) {
+                // Dict or array ?
+                if (data.updates[key].constructor === Array){
+                    process_updates_array(data.updates[key])
+                } else {
+                    process_updates_dict(data.updates[key])
+                }
+              }
+            }
+        } else {
+            process_updates_array(data.items)
+        }
+    });
+}
+
